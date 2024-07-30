@@ -7,6 +7,7 @@
 - [Understanding Requirements](#understanding-requirements)
 - [Methodology](#methodology)
 - [Project Outcome](#project-outcome)
+- [Results/Findings](#results/findings)
 - [References](#references)
 ---
 ### Problem Statement
@@ -37,6 +38,9 @@ The following steps were undertaken to achieve the project objectives:
 ### Project Outcome
 
 The outcome is an intuitive dashboard that offers transparent analysis of employee attendance patterns and work choices, assisting the Human Resources team at AtliQ Technologies in their decision-making process.
+
+
+### Results/Findings
 
 
 ### References
