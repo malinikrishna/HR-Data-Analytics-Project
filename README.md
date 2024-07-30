@@ -7,7 +7,8 @@
 - [Understanding Requirements](#understanding-requirements)
 - [Methodology](#methodology)
 - [Project Outcome](#project-outcome)
-- [Results/Findings](#results/findings)
+- [Project Insights](#project-insights)
+- [Recommendations](#recommendations)
 - [References](#references)
 ---
 ### Problem Statement
@@ -40,7 +41,19 @@ The following steps were undertaken to achieve the project objectives:
 The outcome is an intuitive dashboard that offers transparent analysis of employee attendance patterns and work choices, assisting the Human Resources team at AtliQ Technologies in their decision-making process.
 
 
-### Results/Findings
+### Project Insights
+
+- **Attendance Percentage:** May experiences the lowest attendance percentage among the three months.
+- **Working Preferences:** There's a noticeable trend where employees predominantly request to work from home on Thursdays and Fridays.
+- **Sick Leave Trends:** When comparing the three months, April shows a lower percentage of sick leaves taken by employees.
+
+
+### Recommendations
+
+- When planning team building activities do it in a day where majority of the people are present in the company.
+- From the findings create a better capacity planning for hybrid working model.
+- From the attendance percentage plan better utilisations of rental space and save cost on manufacture.
+- Sick leave trends can be an indication of covid like diseases so take immediate precautions.
 
 
 ### References
